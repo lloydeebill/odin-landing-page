@@ -160,6 +160,8 @@ button {
 .card-img {
   max-width: 100%;
   width: 400px;
+  border: 2px solid #3882F6;
+  border-radius: 12px;
 }
 .quote-section {
   background-color: #E5E7EB;
