@@ -175,7 +175,7 @@ button {
 
 .quote-paragraph {
   max-width: 80%;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .quote-text {
@@ -223,3 +223,15 @@ button {
 .action-button {
   border: 2px solid white;
 }
+
+
+.footer-section {
+  height: 100px;
+  background-color: #1F2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+
+}
+
